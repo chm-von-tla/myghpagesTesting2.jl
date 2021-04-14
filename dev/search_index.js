@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = myghpagesTesting2","category":"page"},{"location":"#myghpagesTesting2","page":"Home","title":"myghpagesTesting2","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for myghpagesTesting2. etjll j dlkjsl Testing djkf","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"etjll j dlkjsl Testing djkf sdfjla","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [myghpagesTesting2]","category":"page"}]
+}
